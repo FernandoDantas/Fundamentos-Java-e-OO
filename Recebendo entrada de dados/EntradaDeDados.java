@@ -28,7 +28,7 @@ public class EntradaDeDados {
 			System.out.println("Obesidade grau 1 ou 2");
 		} else{
 			System.out.println("Obesidade grau 3");			
-			System.out.println("Muito Cuidado como seu peso " + nome);
+			System.out.println("Muito Cuidado com o seu peso " + nome);
 		}
 	}
 }

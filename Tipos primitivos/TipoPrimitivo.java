@@ -5,6 +5,7 @@ public class TipoPrimitivo{
 		
 		boolean alunoMatriculado = true;//Variavel boolean so da dois valores ou é false ou é true
 		boolean clienteBloqueado = false;
+		System.out.println(alunoMatriculado);
 		
 		char turmaAluno = 'A';//Variaveis do tipo char consegue armazenar valores do tipo caracteres
 		char turmaCliente = '2';
