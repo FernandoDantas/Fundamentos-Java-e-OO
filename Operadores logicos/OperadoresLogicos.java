@@ -24,7 +24,7 @@ public class OperadoresLogicos {
 			System.out.println("Abaixo do peso.");
 		} else if ((sexo == 'F' && imc <= 25.8) || (sexo == 'M' && imc < 26.4)) {
 			System.out.println("Peso ideal");
-		} else if ((sexo == 'F' && imc <= 27.3) || (sexo == 'M' && imc < 27.8)) {
+		} else if ((sexo == 'F' && imc <= 27.3) || (sexo == 'M' && imc < 27.8)) { 
 			System.out.println("Um pouco acima do peso");
 		} // contina..
 		
